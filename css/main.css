@@ -1,0 +1,17 @@
+.container {
+  width: 990px;
+  margin: 0 auto;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  padding: 8px;
+  border: 2px solid black;
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */
